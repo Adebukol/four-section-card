@@ -229,9 +229,6 @@ img{
     body{
         min-width: 1440px;
     }
-    .box-container1{
-        flex-direction: column;
-        margin-bottom: 0px;
-    }
+   
 }
 
