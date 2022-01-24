@@ -95,7 +95,7 @@ img{
 }
 .box-container2{
     padding: 20px;
-    margin-top: 15%;
+    margin-top: 20px;
     margin-bottom: 50%;
     box-sizing: border-box;
     height: 200px;
@@ -177,7 +177,7 @@ img{
         }
         .box-container1{
             flex-direction: column;
-            margin-bottom: 50px;
+            margin-bottom: 0px;
         }
         .box{
             padding: 20px;
@@ -203,8 +203,8 @@ img{
         }
         .box-container2{
             padding: 20px;
-            margin-top: 15%;
-            margin-bottom: 50%;
+            margin-top: 30px;
+            margin-bottom: 50px;
             box-sizing: border-box;
             height: 200px;
             width: 300px;
